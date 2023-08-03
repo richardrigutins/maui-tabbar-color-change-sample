@@ -20,4 +20,6 @@ the dark theme color.
 6. The bottom tab bar is briefly displayed as white before changing
 back to the dark theme color.
 
-<img src="./images/recording.gif" width=50% height=50%>
+<p align="center">
+    <img src="./images/recording.gif" width=30% height=30%>
+</p>
