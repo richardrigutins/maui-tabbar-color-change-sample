@@ -19,3 +19,5 @@ the dark theme color.
 5. Open the flyout menu again and navigate to the Home page
 6. The bottom tab bar is briefly displayed as white before changing
 back to the dark theme color.
+
+<img src="./images/recording.gif" width=50% height=50%>
